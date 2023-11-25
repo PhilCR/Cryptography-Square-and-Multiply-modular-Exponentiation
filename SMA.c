@@ -35,7 +35,6 @@ and specified by:
 
  long sma( long x,  long H,  long n){
 
-	long h;
 	unsigned long long r;
 	int bin[32];
 	int i;
